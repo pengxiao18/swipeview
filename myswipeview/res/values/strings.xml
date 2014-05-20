@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">myswipeview</string>
+    <string name="swipeItem">呵呵呵呵</string>
+    <string name="btn_left">左操作</string>
+    <string name="btn_right">右操作</string>
+
+</resources>
